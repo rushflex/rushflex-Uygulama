@@ -1,0 +1,7 @@
+﻿build/
+dist/
+out.txt
+err.txt
+*.class
+.idea/
+*.iml
